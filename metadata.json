@@ -1,0 +1,5 @@
+{
+  "name": "Tactical 3D Armory Viewer",
+  "description": "An interactive 3D weapon showcase with real-time lighting, tactical stats, and a high-fidelity cinematic environment.",
+  "requestFramePermissions": []
+}

@@ -16,6 +16,7 @@
 **神经元档案** 是一个机密级 Web 终端，旨在可视化、分析和收容“神经元”系列的高风险资产（如 X1 指挥单元、R7 生物罐、Z4 解密引擎）。本系统基于 **React Three Fiber** 构建，模拟了通往军械库数据库的直接神经链路。
 
 Unlike standard asset viewers, this interface prioritizes **Atmospheric Immersion** and **Tactical Data Integrity**. It features specialized "Spectrum Modes" to analyze the physical and metaphysical properties of contained artifacts.
+<img width="3071" height="1458" alt="image" src="https://github.com/user-attachments/assets/fbe49024-599d-4029-8425-e217ed7867f8" />
 
 与普通的资产查看器不同，本界面优先考虑**氛围沉浸感**和**战术数据完整性**。它具有专门的“光谱模式”，用于分析收容物的物理和超物理属性。
 
@@ -28,6 +29,7 @@ Unlike standard asset viewers, this interface prioritizes **Atmospheric Immersio
   - **叙事性 HUD：** 悬浮战术覆盖层、数据流和同步状态监视器。
 - **Bilingual Protocol:** Real-time localized encryption switching (English / Chinese).
   - **双语协议：** 实时本地化加密切换（中/英）。
+<img width="3071" height="1457" alt="image" src="https://github.com/user-attachments/assets/fd9334ea-6c29-4bdd-966e-181c9994109a" />
 
 ### 🧊 Containment Rendering / 收容渲染
 - **Auto-Normalization Protocols:** The system automatically recalculates the bounding box of uploaded geometry to fit standard containment fields (approx 3.0 units).
@@ -36,6 +38,7 @@ Unlike standard asset viewers, this interface prioritizes **Atmospheric Immersio
   - **战术材质覆盖：** 用于原型机可视化的可选“暗金属”纳米涂层。
 - **Deep-Scan Hotspots:** 3D spatial annotations linked to specific component data.
   - **深度扫描热点：** 链接到特定组件数据的 3D 空间注释。
+<img width="3068" height="1479" alt="image" src="https://github.com/user-attachments/assets/b17df286-a647-4001-ac60-df142f226f1c" />
 
 ### 👁️ Spectrum Analysis / 光谱分析
 Each containment unit supports specific visual modes:
@@ -44,6 +47,7 @@ Each containment unit supports specific visual modes:
 - **Thermal:** Heat signature detection for weaponry.
 - **Flux-View:** Fluid dynamics analysis (specifically for the R7 Bio-Canister).
 - **Stress:** Structural integrity testing (specifically for the Z4 Engine).
+<img width="3047" height="1414" alt="image" src="https://github.com/user-attachments/assets/58bd7394-b658-4cf9-b3fd-b967ee31c852" />
 
 每个收容单元支持特定的视觉模式：
 - **标准视图：** 光学光谱 (PBR)。
